@@ -10,7 +10,7 @@
 //     define('DB_PASSWORD','');
 //     define('DB_NAME','food-order');
 
-    define('SITEURL','http://localhost/sql6435798/');
+    define('SITEURL','http://localhost/food-order/');
     define('LOCALHOST','sql6.freemysqlhosting.net');
     define('DB_USERNAME', 'sql6435798');
     define('DB_PASSWORD','F7HZxD1q6K');
